@@ -6,9 +6,9 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: logs.png
   address: >
-    <p>432, Shanghai Center for Mathematical Sciences</p>
+    <p>432, SCMS</p>
     <p>No,2005 Songhu Road</p>
     <p>Shanghai, China, 200438</p>
 
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 In now a PhD student in [SCMS, Fudan University](http://http://www.scms.fudan.edu.cn/), supervised by Zhiyuan Li. My research interests are
 * Algebraic Geometry
-* $p$-adic Geometry
+* $$p$$-adic Geometry
 
 
 <!--
