@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: This page collects some information about my teaching courses (or as TA). 
-nav: false
+nav: true
 ---
 
 ## Fudan University
