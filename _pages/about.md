@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Basci information about me. E-mail:htzou17[AT]fudan.edu.cn.
-
+description: Basci information about me. 
 profile:
   align: right
   image: blue-fdu-100.jpg
@@ -16,9 +15,9 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm now a PhD student in [SCMS, Fudan University](http://www.scms.fudan.edu.cn/), supervised by Zhiyuan Li. My research interests are
-* Algebraic Geometry
-* $$p$$-adic Geometry
+I'm now a PhD student in [SCMS, Fudan University](http://www.scms.fudan.edu.cn/), supervised by Zhiyuan Li. My research interests include
+* Algebraic Geometry (especially on K3 surface and its higher-dimensional analogue);
+* $$p$$-adic Geometry ($$p$$-adic cohomology theories, etc)
 
 For detials, see [CV](/assets/pdf/CV.pdf)
 
