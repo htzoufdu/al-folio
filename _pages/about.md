@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Basci information about me. 
+description: Basic information about me. 
 profile:
   align: right
   image: blue-fdu-100.jpg
