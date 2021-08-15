@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a> e-mail: htzou17[AT]fudan.edu.cn.
+description: e-mail:htzou17[AT]fudan.edu.cn.
 
 profile:
   align: right
@@ -19,6 +19,8 @@ social: true  # includes social icons at the bottom of the page
 I'm now a PhD student in [SCMS, Fudan University](http://www.scms.fudan.edu.cn/), supervised by Zhiyuan Li. My research interests are
 * Algebraic Geometry
 * $$p$$-adic Geometry
+
+For detials, see [CV](/assets/CV.pdf)
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
