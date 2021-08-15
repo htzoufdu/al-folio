@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: e-mail:htzou17[AT]fudan.edu.cn.
+description: Basci information about me. E-mail:htzou17[AT]fudan.edu.cn.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ I'm now a PhD student in [SCMS, Fudan University](http://www.scms.fudan.edu.cn/)
 * Algebraic Geometry
 * $$p$$-adic Geometry
 
-For detials, see [CV](/assets/CV.pdf)
+For detials, see [CV](/assets/pdf/CV.pdf)
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
