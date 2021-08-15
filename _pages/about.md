@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Affiliations</a> htzou17[AT]fudan.edu.cn.
 
 profile:
   align: right
@@ -12,13 +12,13 @@ profile:
     <p>No,2005 Songhu Road</p>
     <p>Shanghai, China, 200438</p>
 
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 
-In now a PhD student in [SCMS, Fudan University](http://http://www.scms.fudan.edu.cn/), supervised by Zhiyuan Li. My research interests are
+I'm now a PhD student in [SCMS, Fudan University](http://http://www.scms.fudan.edu.cn/), supervised by Zhiyuan Li. My research interests are
 * Algebraic Geometry
 * $$p$$-adic Geometry
 
