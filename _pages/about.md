@@ -6,9 +6,9 @@ description: <a href="#">Affiliations</a> htzou17[AT]fudan.edu.cn.
 
 profile:
   align: right
-  image: logs.png
+  image: blue-fdu-100.jpg
   address: >
-    <p>432, SCMS</p>
+    <p>Room 432, SCMS</p>
     <p>No,2005 Songhu Road</p>
     <p>Shanghai, China, 200438</p>
 
