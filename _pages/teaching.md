@@ -6,7 +6,7 @@ description: This page collects some information about my teaching courses (or a
 nav: true
 ---
 
-## Fudan University
+### Fudan University
 
 1. 2020.2-2020.6 Modern Algebra III(H), TA
 2. 2019.9-2019.12 Algebraic Geometry, TA
