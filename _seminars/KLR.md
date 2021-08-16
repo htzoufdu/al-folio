@@ -2,7 +2,7 @@
 layout: page
 title: Kottwitz-Langlands-Rapoport conjecture
 description: Regular seminar on algebraic geometry in SCMS. 
-img: /asserts/img/11.jpg
+img: /assets/img/11.jpg
 time: 1201
 year: 2020
 ---
