@@ -11,7 +11,7 @@ horizontal: false
 {% for y in page.years %}
     <h2 class="year">{{y}}</h2>
     {% assign year_seminars = site.seminars | where: "year", y %}
-    {% assigne sorted_seminars = year_seminars | sort: "time" %}
+    {% assign sorted_seminars = year_seminars | sort: "time" %}
 	<div class="container">
 	     <div class="row row-cols-2">
     	     {% for seminar in sorted_seminars %}
