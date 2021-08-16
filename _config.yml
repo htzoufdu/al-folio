@@ -101,7 +101,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
+  seminars:
+      output: true
+      permalink: /seminars/:path/
 news_limit: 5
 
 # -----------------------------------------------------------------------------

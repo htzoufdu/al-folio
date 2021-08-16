@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: Basic information about me. 
+description: Basic information about me. 邹海涛的个人主页。
 profile:
   align: right
   image: blue-fdu-100.jpg
