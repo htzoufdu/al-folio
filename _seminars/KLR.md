@@ -1,5 +1,5 @@
 ---
-layout: dstill 
+layout: post 
 title: Kottwitz-Langlands-Rapoport conjecture
 description: Regular seminar on algebraic geometry in SCMS. 
 img: /assets/img/flogo.jpg
