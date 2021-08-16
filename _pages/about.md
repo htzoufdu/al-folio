@@ -19,7 +19,7 @@ I'm now a PhD student in [SCMS, Fudan University](http://www.scms.fudan.edu.cn/)
 * Algebraic Geometry (especially on K3 surface and its higher-dimensional analogue);
 * $$p$$-adic Geometry ($$p$$-adic cohomology theories, etc)
 
-For detials, see [CV](/assets/pdf/CV.pdf)
+For detials, you can see the pdf-version CV [pdf](/assets/pdf/CV.pdf).
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

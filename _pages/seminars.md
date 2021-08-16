@@ -7,7 +7,7 @@ nav: true
 years: [2018,2019,2020,2021]
 horizontal: false
 ---
-<div class="projects">
+<div class="publications">
 {% for y in page.years %}
     <h2 class="year">{{y}}</h2>
     {% assign year_seminars = site.seminars | where: "year", y %}
