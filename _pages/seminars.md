@@ -13,7 +13,7 @@ horizontal: false
     {% assign year_seminars = site.seminars | where: "year", y %}
     {% assign sorted_seminars = year_seminars | sort: "time" %}
 	<div class="container">
-	    <div class="row row-cols-2">
+	    <div class="row row-cols-1">
             {% for seminar in sorted_seminars %}
     	         {% include seminars.html %}
 	    {% endfor %}
