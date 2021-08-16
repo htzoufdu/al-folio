@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dstill 
 title: Regular Seminar (2020 Spring)
 description: The is the regular algebraic-geometry preprint seminar in SCMS, organized by Zhiyuan Li.
 img: /assets/img/flogo.jpg
