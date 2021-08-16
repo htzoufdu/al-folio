@@ -1,0 +1,15 @@
+<div class="table-responsive">
+  <table class="table table-sm table-borderless">
+  {% assign info = page.info | sort: "date" %}
+  {% for item in info %}
+    <tr>
+      <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+      <th scope="row">{{ item.speaker }}</th>
+      <td>
+          <a class="news-title">{{ item.title }}</a>
+      </td>
+    </tr>
+  {% endfor %}
+  </table>
+</div>
+
