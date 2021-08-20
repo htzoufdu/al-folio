@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Basic information about me. 邹海涛的个人主页。
+description: 邹海涛的个人主页。Basic information about me. 
 profile:
   align: right
   image: blue-fdu-100.jpg
