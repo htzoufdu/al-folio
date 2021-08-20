@@ -66,7 +66,6 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
 contact_note: > 
-  If you have any question, please e-mail me. 
 # You can even add a little note about which of these is the best way to reach you.
   
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
@@ -186,8 +185,8 @@ enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
-enable_darkmode:            false   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
+enable_darkmode:            false  # enables switching between light/dark modes
+enable_navbar_social:       true   # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
