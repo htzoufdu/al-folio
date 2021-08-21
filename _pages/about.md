@@ -7,7 +7,7 @@ profile:
   align: right
   image: blue-fdu-100.jpg
   address: >
-    <p>Room 432, SCMS</p>
+    <p>Room 442, SCMS</p>
     <p>No,2005 Songhu Road</p>
     <p>Shanghai, China, 200438</p>
 
