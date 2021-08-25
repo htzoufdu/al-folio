@@ -5,7 +5,7 @@ permalink: /
 description: 邹海涛的个人主页。Basic information about me. 
 profile:
   align: right
-  image: blue-fdu-100.jpg
+  image: pic-me.jpeg
   address: >
     <p>Room 442, SCMS</p>
     <p>No,2005 Songhu Road</p>
