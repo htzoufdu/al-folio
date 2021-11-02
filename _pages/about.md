@@ -7,7 +7,7 @@ profile:
   align: right
   image: pic-me.jpeg
   address: >
-    <p>Room 442, SCMS</p>
+    <p>Room 402-404, SCMS</p>
     <p>No,2005 Songhu Road</p>
     <p>Shanghai, China, 200438</p>
 
