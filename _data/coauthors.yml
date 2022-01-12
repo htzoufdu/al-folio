@@ -1,18 +1,21 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Li":
+     - firstname: ["Zhiyuan", "Z."]
+       url: https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm
+"Fu":
+ - firstname: ["Lie","L."]
+   url: https://www.math.ru.nl/~liefu
 
 "Podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+	url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
 "Rosen":
   - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+	url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+	url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+	url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
