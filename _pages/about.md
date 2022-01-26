@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: 邹海涛的个人主页。Basic information about me. 
+description: 邹海涛的个人主页
 profile:
   align: right
   image: pic-me.jpeg
