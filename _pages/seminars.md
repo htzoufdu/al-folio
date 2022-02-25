@@ -4,7 +4,7 @@ title: Seminars
 permalink: /seminars/
 description: This page is about seminars I have organized or attended.
 nav: true
-years: [2018,2019,2020,2021]
+years: [2020,2021,2022]
 horizontal: false
 ---
 <div class="projects">
