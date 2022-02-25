@@ -12,7 +12,7 @@ info:
       title: TBA
 ---
 
-The seminar in this semester (2022 spring) is a seminar on "Moduli of stable sheaves and objects". The final goal of this seminar is to understand the construction of relative moduli spaces of (semi)stable objects in a family $$\mathcal{X} \to S$$.
+The seminar in this semester (2022 spring) is on "Moduli of stable sheaves and objects". The final goal of this seminar is to understand the construction of relative moduli spaces of (semi)stable objects in a family $$\mathcal{X} \to S$$.
 
 ---
 
