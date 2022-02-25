@@ -1,7 +1,7 @@
 ---
 layout: seminar 
-title: Regular Seminar (2021 Fall)
-description: The is the regular algebraic-geometry preprint seminar in SCMS, organized by Zhiyuan Li.
+title: Moduli of stable objects
+description: The is a learning seminar in SCMS in algebraic geometry.
 img: /assets/img/prism1.jpg
 date: 2022-02-25
 time: 0225
