@@ -10,6 +10,12 @@ info:
     - date: 2022-02-25
       speaker: Yiran Cheng      
       title: Grauert-Mulich theorem and Bogomolov's inequality
+    - date: 2022-03-02
+      speaker: Haoyu Wu
+      title: Boundness for semistable sheaves
+    - date: 2022-03-09
+      speaker: Zaiyuan Chen 
+      title: Construction of moduli space of semistable sheaves and Langton's theorem
 ---
 
 The seminar in this semester (2022 spring) is on "Moduli of stable sheaves and objects". The final goal of this seminar is to understand the construction of relative moduli spaces of (semi)stable objects in a family $$\mathcal{X} \to S$$.
