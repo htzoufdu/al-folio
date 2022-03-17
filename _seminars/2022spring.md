@@ -16,9 +16,17 @@ info:
     - date: 2022-03-09
       speaker: Zaiyuan Chen 
       title: Construction of moduli space of semistable sheaves and Langton's theorem
+    - date: 2022-03-18
+      speaker: Xun Zhang
+      title: Local $$t$$-structure (I) 
+    - date: 2022-03-25
+      title: local $$t$$-structure (II)
 ---
 
 The seminar in this semester (2022 spring) is on "Moduli of stable sheaves and objects". The final goal of this seminar is to understand the construction of relative moduli spaces of (semi)stable objects in a family $$\mathcal{X} \to S$$.
+
+Due the pandemic in Shanghai, the talks in 2022/03/18 and 2022/03/25 are both online. [url](https://meeting.tencent.com/dm/5i9GCSYn2D82)
+
 
 ---
 
