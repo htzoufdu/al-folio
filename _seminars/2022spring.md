@@ -21,13 +21,12 @@ info:
       title: Local t-structure (I) 
     - date: 2022-03-25
       speaker: Xun Zhang
-      title: local t-structure (II)
+      title: Local t-structure (II)
 ---
 
 The seminar in this semester (2022 spring) is on "Moduli of stable sheaves and objects". The final goal of this seminar is to understand the construction of relative moduli spaces of (semi)stable objects in a family $$\mathcal{X} \to S$$.
 
 Due to the pandemic in Shanghai, we will hold the talks in 2022/03/18 and 2022/03/25 online. [url](https://meeting.tencent.com/dm/5i9GCSYn2D82)
-
 
 ---
 
