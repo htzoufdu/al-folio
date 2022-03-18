@@ -13,7 +13,7 @@ info:
     - date: 2022-03-02
       speaker: Haoyu Wu
       title: Boundness for semistable sheaves
-    - date: 2022-03-09
+    - date: 2022-03-11
       speaker: Zaiyuan Chen 
       title: Construction of moduli space of semistable sheaves and Langton's theorem
     - date: 2022-03-18
