@@ -7,15 +7,18 @@ profile:
   align: right
   image: pic-me.jpeg
   address: >
-    <p>Room 402-404, SCMS</p>
-    <p>No,2005 Songhu Road</p>
-    <p>Shanghai, China, 200438</p>
+    <p>Main Building, M4-127</p>
+    <p>Bielefeld University</p>
+    <p>Universitätsstr. 25</p>
+    <p>33615, Bielefeld, Germany</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm now a PhD student in [SCMS, Fudan University](http://www.scms.fudan.edu.cn/), supervised by Zhiyuan Li. My research interests include
+I'm now a Post-Doc in Bielefeld University, Germany, sponsored by [SFB-TRR 358 "Integral Structures in Geometry and Representation Theory"](https://trr358.math.uni-bielefeld.de). Before that, I was a PhD student in [SCMS, Fudan University](http://www.scms.fudan.edu.cn/), supervised by Zhiyuan Li. 
+
+My research interests include
 * Algebraic Geometry (especially on K3 surface and its higher-dimensional analogue);
 * $$p$$-adic Geometry ($$p$$-adic cohomology theories, etc)
 
